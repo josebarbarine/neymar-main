@@ -1,6 +1,8 @@
 
 ## 🚀 Como Executar
 
+http://127.0.0.1:8000/docs
+
 ### 1. Configurar o Ambiente
 Abra o terminal na pasta do projeto e execute:
 ```bash
@@ -17,3 +19,6 @@ pip install fastapi uvicorn
 Bash
 
 uvicorn main:app --reload
+
+
+
